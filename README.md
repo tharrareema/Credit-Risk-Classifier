@@ -1,8 +1,5 @@
 ## Credit Risk Classification Model (KNN, Decision Trees, Ensemble)
 
-<details>
-<summary>Click to expand</summary>
-
 ### 🧠 Project Title
 **Comparative Credit Risk Modeling for Loan Default Prediction**
 
