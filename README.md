@@ -46,6 +46,4 @@ Python • Pandas • NumPy • Scikit-learn • XGBoost / LightGBM • Matplotl
 - **Feature Prioritization:** Use top features (Credit Score, Existing Debt) for early-stage loan filtering  
 - **Model Monitoring:** Track drift over time as economic conditions change  
 
-</details>
-
 ---
